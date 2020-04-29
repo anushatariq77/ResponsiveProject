@@ -1,0 +1,227 @@
+/* TopNav css */
+.mainlogo{
+    width: 8%;   
+}
+
+.signin{
+    text-align: right;
+}
+
+.signinpara{
+    margin-top:-45px;
+    margin-right:220px ;
+    font-family:helvatica;
+    position:relative;
+}
+
+.registerpara{
+
+    margin-top:-20px;
+    position:relative;
+    margin-right:130px ;
+     font-family: helvatica;
+}
+
+.shoppingcartpara{
+    margin-top:-32px;
+    position:relative;
+    margin-right:10px;
+    font-family:helvatica;
+}
+
+.mainnav{
+    background-color:white;
+    margin-top:30px;
+    width:60;
+    height:5vh;
+}
+.newarrivalnav{
+    display: inline-block ;
+    font-family:helvatica;
+    font-weight:lighter;
+    margin-left:-10px;
+}
+.othersnav{
+    display: inline-block;
+     font-family:helvatica;
+     font-weight:lighter;
+     margin-left:30px;
+}
+.brandnav{
+    display: inline-block;
+    font-family:helvatica;
+    font-weight:lighter;
+    margin-left:90px;
+}
+/* carousel css */
+.carouseldiv{
+    background-color:red;
+    margin-left:10px;
+    width:98.5%;
+}
+.carousel-indicators{
+    position: absolute;
+}
+ /* top trending div css */
+ .toptrendingdiv{
+    margin-top:5px; 
+    margin-left:10px;
+    background-color:#E3E2DF;
+    width:98.5%;
+ }
+ #headingtt{
+    text-align:center; padding-top:25px; font-weight:bold;
+ }
+ #paratt{
+    text-align:center; font-size: 18px;
+ }
+
+#pic1row1tt, #pic2row1tt, #pic3row1tt, #pic4row1tt{
+    display: inline-block ;
+    width: 24.5% ;
+    margin-left: 3px ;
+ }
+ #pic1row2tt, #pic2row2tt, #pic3row2tt, #pic4row2tt
+{
+    display:inline-block;width:24.5%;margin-left:3px;
+    margin-top:-10px;
+}
+
+/* Gallery */
+#gallerydiv{
+    background-color:#E3AFBC;margin-left:10px;width:98.5%;margin-top:5px;
+}
+#headinggd{
+    text-align:center;letter-spacing:1px;font-weight:initial;font-size:30px ;color:white; padding-top:25px;font-family:helvatica;
+}
+#card1gd,#card2gd,#card3gd,#card4gd{
+    display:inline-block;margin-left:30px;
+
+}
+#cardgd1,#cardgd2,#cardgd3,#cardgd4{
+    height:32vh;
+}
+#contentgd1,#contentgd2,#contentgd3,#contentgd4{
+width:30vh;margin-left:20px;
+}
+
+#headergd1,#headergd2,#headergd3,#headergd4{
+    color:grey;
+}
+/* Note css */
+
+#notedv{
+width:98.5%;margin-left:10px;margin-top:5px;
+}
+#headingnotedv{
+    text-align:center;font-weight:bold;padding:50px;font-family:sans-serif;letter-spacing:4px;color:#666666;font-size:16px;
+}
+#hrnotedv{
+    height:0px;background-color:#666666;width:75%;
+}
+#paranotedv{
+    padding:100px; padding-top: 0px; display:block;text-align:center; font-family:sans-serif;color:#666666;
+}
+#note2dv{
+    margin-top:-20px;height:70vh;
+}
+#headingnote2dv{
+    text-align:center;font-weight:bold;padding:50px;font-family:sans-serif;
+    letter-spacing:4px;color:#666666;font-size:16px;
+}
+#paranote2dv{
+    padding:100px; padding-top: 0px; display:block;text-align:center; font-family:sans-serif;color:#666666;
+}
+/* footer css */
+#firstdvft{
+    padding:25px;background-color:#E3E2DF;margin-top:10px;
+}
+#heading1ft{
+    margin-left:100px; font-family:sans-serif;font-size:20px;color:black;
+}
+#heading2ft{
+    margin-left:100px; font-family:sans-serif;font-size:17px;color:black;
+}
+
+#emailinputft{
+    margin-left:-20px;height:50px;
+}
+#okaybuttonft{
+    margin-right:20px;height: 50px;
+}
+#helpcontactft{
+    margin-top:20px;
+}
+.helpulft{
+    list-style-type:none;
+   
+
+}
+#helpli1ft{
+    margin-left:40px;color:black;font-family:sans-serif;font-size:19px;font-weight:bold;
+
+}
+#helpli2ft{
+    margin-left:40px;color:#666666;font-family:sans-serif;margin-top:3px;font-size:15px;
+}
+#waysft,#customercareft,#accountft,#followlift{
+    color:black;font-family:sans-serif;font-size:19px;font-weight:bold;
+}
+#aboutft,#noft,#accountinfoft,#fblift{
+    color:#666666;font-family:sans-serif;margin-top:3px;font-size:15px;
+}
+#faqft,#emailcareft,#addressft{
+    color:#666666;font-family:sans-serif;margin-top:30px;font-size:15px;
+}
+#paymentft,#orderft{
+    color:#666666;font-family:sans-serif;margin-top:55px;font-size:15px;
+}
+#followusdv{
+    margin-left:10px;
+}
+
+#twterlift{
+    margin-left:42px;position:absolute;color:#666666;font-family:sans-serif;margin-top:-40px;font-size:15px;
+}
+#youtubelift{
+    margin-left:84px;position:absolute;color:#666666;font-family:sans-serif;margin-top:-40px;font-size:15px;
+}
+#instalift{
+    margin-left:126px;position:absolute;color:#666666;font-family:sans-serif;margin-top:-40px;font-size:15px;
+}
+.socialmediaimg{
+    width:40px;height:40px;
+}
+#linepp{
+    height:0.5px;background-color:#666666;width:105%;
+}
+#divpp{
+    margin-bottom:10px;
+}
+#termscond{
+    margin-left:300px;letter-spacing:2px;font-size:13px;color:black;font-weight:bold;
+}
+#privacypolicy1{
+    letter-spacing:2px;font-size:13px;color:black;font-weight:bold;
+}
+#privacypolicy2{
+    margin-left:200px;letter-spacing:2px;font-size:13px;color:black;font-weight:bold;
+}
+ /* media queries */
+ /* @media(max-width:768px){
+     .mainnavbardv{
+         width:400px;
+         height: 50px;
+
+        
+     }
+      .mainlogo{
+          width: 15%;;
+      }
+
+      .siginin{
+          background-color: blueviolet;
+      } */
+     
+/* 
+ } */

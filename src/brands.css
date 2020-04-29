@@ -1,0 +1,118 @@
+/* pin div css */
+#pinkdvbrands{
+    background-color: pink ;margin-top : 5px; text-align: center; height: 150px; width: 100%;
+}
+
+/* all brands divs */
+#fullbrandsdv{
+    width:99%;margin-left:10px;border-style:solid;border-width:1px;border-color:#bdbdbd;margin-top:50px;
+}
+/* alphabet headings */
+
+.alphabetheadingbrands{
+    font-family:helvatica;font-size:50px;margin-left:30px;
+}
+/* line under alphabets */
+.alphabetunderlinebrands{
+    width:95%;border-width:2px;background-color:#eeeeee;
+}
+/* A div */
+#alphabet1brands{
+    display:flex;margin-left:30px;
+}
+/* other divs */
+.alphabetothersbrands{
+    display:flex;width:99%;margin-left:30px;
+}
+.othersmaindivbrands{
+    margin-top:10px;
+}
+/* boxshadow of row A */
+#boxshadow1A,#boxshadow2A,#boxshadow3A,#boxshadow4A{
+    box-shadow:2px 3px 8px 2px #9e9e9e;
+}
+#boxshadow1B, #boxshadow2B,#boxshadow1C, #boxshadow2C,#boxshadow1G, #boxshadow2G{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:40%;
+}
+#boxshadow1F{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:150%;height:150px;
+}
+
+#boxshadow1D,#boxshadow1J,#boxshadow1L,#boxshadow1O,#boxshadow1W{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:90%;
+}
+#boxshadow1E,#boxshadow2E,#boxshadow3E{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:30%;
+
+}
+#boxshadow1K,#boxshadow1M,#boxshadow2M,#boxshadow3M,#boxshadow1S{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:20%;
+}
+#boxshadow1N{
+    box-shadow:2px 3px 8px 2px #9e9e9e;width:18%;
+}
+
+/* Image headings */
+#imageheading1brands{
+    margin-top:50px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+#imageheading2brands{
+    margin-top:40px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+#imageheading3brands{
+    margin-top:85px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+#imageheading4brands{
+    margin-top:20px; font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading7brands,.imageheading11brands,.imageheading12brands,.imageheading14brands,.imageheading15brands,
+.imageheading16brands,.imageheading18brands,.imageheading19brands,.imageheading23brands,.imageheading25brands{
+    margin-top:10px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+.imageheading5brands{
+    margin-top:60px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading6brands{
+    margin-top:50px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading8brands{
+    margin-top:70px;font-family:helvatica;font-size:20px;color:#616161;
+}
+.imageheading9brands{
+    margin-Top:40px;font-Family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading10brands{
+    margin-top:45px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+.imageheading12brands{
+    margin-top:60px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading13brands{
+    margin-top:70px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheadingGbrands{
+    margin-top:170px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+.imageheading17brands
+{
+    margin-top:180px;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+#imageheading20brands{
+    margin-top: 136px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading21brands,.imageheading22brands
+{
+    margin-top:20px;font-family:helvatica;font-size:20px;color:#616161;
+}
+#imageheading24brands{
+    margin-top: 40px ;font-family:helvatica;font-size:20px;color:#616161;
+}
+
+
